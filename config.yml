@@ -1,0 +1,8 @@
+#SpaceChat config file
+
+autoBroadcast:
+  Time: 6000 # 5min = 1200 * 5
+  NbMsg: 3 
+  msg0: "Message 1"
+  msg1: "Message 2"
+  msg2: "Message 3"
